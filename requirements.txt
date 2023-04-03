@@ -1,3 +1,5 @@
 flask
 langchain
 cohere
+pandas
+streamlit
